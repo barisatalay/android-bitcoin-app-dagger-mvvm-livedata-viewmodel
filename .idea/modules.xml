@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BitCoinVeOtesiGit.iml" filepath="$PROJECT_DIR$/BitCoinVeOtesiGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin.iml" filepath="$PROJECT_DIR$/coin.iml" />
     </modules>
   </component>
 </project>
